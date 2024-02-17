@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joshuasharron
 - 👀 I’m interested in biotech, deeptech and climate tech ventures that are changing the world
 - 🌱 I’m currently learning Python to build tools to help in the VC space
-- 💞️ I’m looking to collaborate on projects where you can predict the success rate of an early stage startup to reach IPO or receive further investment
+- 💞️ I’m looking to collaborate on projects to utilise AI in the venture capital space
 - 📫 How to reach me - email (joshua.sharron@outlook.com) linkedIn ([https://www.linkedin.com/feed/](https://www.linkedin.com/in/joshua-chanthrakumaran/)
 - ⚡ Fun fact: Plant based athlete 
 
